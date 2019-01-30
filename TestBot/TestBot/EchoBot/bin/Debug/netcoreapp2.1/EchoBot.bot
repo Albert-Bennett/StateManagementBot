@@ -1,0 +1,25 @@
+﻿{
+  "name": "EchoBot",
+  "services": [
+    {
+      "type": "endpoint",
+      "name": "development",
+      "endpoint": "http://localhost:3978/api/messages",
+      "appId": "",
+      "appPassword": "",
+      "id": "1"
+    },
+    {
+      "type": "luis",
+      "name": "NameDetector",
+      "appId": "537785b3-dae5-4095-8e5d-14ebfca59b5f",
+      "version": "0.1",
+      "authoringKey": "4a492486d9e2470aba2a4995d434b6c0",
+      "subscriptionKey": "4a492486d9e2470aba2a4995d434b6c0",
+      "region": "westeurope",
+      "id": "158"
+    }
+  ],
+  "padlock": "",
+  "version": "2.0"
+}

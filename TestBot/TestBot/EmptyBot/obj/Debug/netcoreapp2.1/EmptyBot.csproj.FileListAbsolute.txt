@@ -1,0 +1,12 @@
+C:\Users\AlbertBennett\Desktop\TestBot\TestBot\EmptyBot\bin\Debug\netcoreapp2.1\EmptyBot.bot
+C:\Users\AlbertBennett\Desktop\TestBot\TestBot\EmptyBot\bin\Debug\netcoreapp2.1\EmptyBot.deps.json
+C:\Users\AlbertBennett\Desktop\TestBot\TestBot\EmptyBot\bin\Debug\netcoreapp2.1\EmptyBot.runtimeconfig.json
+C:\Users\AlbertBennett\Desktop\TestBot\TestBot\EmptyBot\bin\Debug\netcoreapp2.1\EmptyBot.runtimeconfig.dev.json
+C:\Users\AlbertBennett\Desktop\TestBot\TestBot\EmptyBot\bin\Debug\netcoreapp2.1\EmptyBot.dll
+C:\Users\AlbertBennett\Desktop\TestBot\TestBot\EmptyBot\bin\Debug\netcoreapp2.1\EmptyBot.pdb
+C:\Users\AlbertBennett\Desktop\TestBot\TestBot\EmptyBot\obj\Debug\netcoreapp2.1\EmptyBot.csprojAssemblyReference.cache
+C:\Users\AlbertBennett\Desktop\TestBot\TestBot\EmptyBot\obj\Debug\netcoreapp2.1\EmptyBot.csproj.CoreCompileInputs.cache
+C:\Users\AlbertBennett\Desktop\TestBot\TestBot\EmptyBot\obj\Debug\netcoreapp2.1\EmptyBot.AssemblyInfoInputs.cache
+C:\Users\AlbertBennett\Desktop\TestBot\TestBot\EmptyBot\obj\Debug\netcoreapp2.1\EmptyBot.AssemblyInfo.cs
+C:\Users\AlbertBennett\Desktop\TestBot\TestBot\EmptyBot\obj\Debug\netcoreapp2.1\EmptyBot.dll
+C:\Users\AlbertBennett\Desktop\TestBot\TestBot\EmptyBot\obj\Debug\netcoreapp2.1\EmptyBot.pdb
